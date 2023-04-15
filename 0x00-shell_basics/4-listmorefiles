@@ -1,2 +1,2 @@
 #!/bin/bash
- dir/ah
+ls -la
